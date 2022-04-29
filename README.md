@@ -1,3 +1,8 @@
+## Run the code
+please have node/npm installed on your system
+
+to build the project run npm install
+
 ## Prompt
 
 We have supplied you with a `review_list`, which is a collection of book recommendations from famous authors. Assume that this list could grow arbitrarily large in size.
