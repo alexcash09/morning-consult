@@ -1,0 +1,15 @@
+{
+  "name": "morning-interview",
+  "version": "1.0.0",
+  "description": "We have supplied you with a `review_list`, which is a collection of book recommendations from famous authors. Assume that this list could grow arbitrarily large in size.",
+  "main": "book-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
